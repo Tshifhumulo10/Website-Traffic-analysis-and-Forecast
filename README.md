@@ -11,8 +11,8 @@ The objective of this project is to gain insights into the traffic patterns and 
 
 # Documents 
 
-1. Daily-website-visitors.csv
-2. Notebook
+1. Notebook: This Jupyter Notebook is an essential part of the project dedicated to analyzing website traffic and developing a model for forecasting the website unique visitor.
+2. Train Data: The training dataset was obtained from Kaggle, and the source link is provided above. This dataset serves as the foundation for  analysis and model development.
    
 ## Notebook Content
 
